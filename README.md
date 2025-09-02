@@ -45,6 +45,22 @@
 ## Executive Summary
 
 ## Visualizations and Insights
+- Dashboard:<img width="946" height="543" alt="Dashboard" src="https://github.com/user-attachments/assets/6dab9e97-6832-4150-9b6a-7b4a99780c4e" />
+
+  You can get the Power BI files [here](https://github.com/VincentAbas/Loan-Analysis-and-Default-Prediction/blob/fa513bfe5eccd6ffb07334bd5b70ab864fcafccc/Loan%20Data%20Analysis.pbix)
+  
+### Distribution
+<img width="628" height="483" alt="Distribution" src="https://github.com/user-attachments/assets/8f90ba29-ce4b-46d1-a35c-58e59d385ff4" />
+
+
+### Home Ownership
+<img width="745" height="488" alt="Home Ownership" src="https://github.com/user-attachments/assets/19e15c9b-7db1-4e60-b1fa-8434069e63a5" />
+
+
+### Loan Intent
+<img width="704" height="480" alt="Loan Intent" src="https://github.com/user-attachments/assets/e7ebb77a-63b4-4aa7-86bf-75aee038a2b0" />
+
+
 
 ## Recommendations
 
