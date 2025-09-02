@@ -81,7 +81,47 @@
 # Training Machine Learning Models
 
 ## Data Preperation
-
+  - Turned categorical data into numerical data such as:
+    - home_ownership
+    - loan_intent
+    - loan_grade
+    - historical_default
+    - Current_loan_status
+      
 ## Training
+  - I split the data into 80% Traning set and 20% Testing set
+  - I trained multiple machine learning model such as (Random Forest, Decision Tree, Logistic Regression, KNeighborsClassifier, and SVC) while also using their default
+    Hyperparameters.
+    
+    <img width="568" height="860" alt="Training Machine Learning Model Code Snippet" src="https://github.com/user-attachments/assets/f4805173-5b9b-4bdd-9b37-ca30df5c1aca" />
 
+    
 ## Evaluation
+  - The Results are great being Random Forest in the lead with 97% accuracy and AUC score of 99%.
+  - The results are as follows:
+    
+  ### Random Forest:
+  
+  <img width="461" height="577" alt="Random Forest" src="https://github.com/user-attachments/assets/839fa3cf-599d-4be1-a27c-9a8844e8e173" />
+
+  ### Decision Tree:
+
+  <img width="475" height="585" alt="Decision Tree" src="https://github.com/user-attachments/assets/dfdad101-600c-458c-94b0-660d7acc0634" />
+
+  ### SVM:
+  
+  <img width="462" height="586" alt="SVM" src="https://github.com/user-attachments/assets/0e8c971a-6e87-418b-a555-0b55f65d5487" />
+
+  ### KNN: 
+  
+  <img width="460" height="577" alt="KNN" src="https://github.com/user-attachments/assets/d96874f1-dc99-422b-81f5-f421bd0043cc" />
+
+  ### Logistic Regression:
+
+  <img width="486" height="582" alt="Logistic Regression" src="https://github.com/user-attachments/assets/84ec435f-7d8b-4413-a286-c21eab2666a1" />
+
+  ### AUC-ROC
+
+  <img width="702" height="557" alt="AUC ROC" src="https://github.com/user-attachments/assets/b9538eeb-595f-412a-a1d3-bb871875a480" />
+
+
