@@ -44,6 +44,8 @@
 
 ## Executive Summary
 
+- Data analysis shows that 21% of borrowers have defaulted, while 79% have not. Most defaults occur among renters, followed by mortgage holders. Debt consolidation and medical     loans make up the majority of defaults. Renters may be more vulnerable due to unexpected financial hardships such as job loss, medical bills, or budgeting challenges, while      borrowers taking debt consolidation or medical loans may already be financially strained. These findings highlight key borrower segments to monitor for potential risk.
+
 ## Visualizations and Insights
 - Dashboard:<img width="946" height="543" alt="Dashboard" src="https://github.com/user-attachments/assets/6dab9e97-6832-4150-9b6a-7b4a99780c4e" />
 
@@ -64,7 +66,18 @@
 - Debt consolidation and medical bills account for the majority of defaults in the dataset because these types of loans often arise from existing financial stress. Borrowers       taking on debt consolidation may already have multiple outstanding obligations, making it harder to keep up with payments. Similarly, medical expenses are often unexpected and   can be substantial, straining monthly budgets and increasing the likelihood of default.
 
 ## Recommendations
-- 
+- Strengthen Credit Assessment: Incorporate rental status, existing debt, and loan purpose into risk scoring to identify higher-risk borrowers early.
+
+- Offer Financial Counseling: Provide guidance on budgeting and managing unexpected expenses to help borrowers stay on track. This will not only help the borrowers
+  but will you will also gain their trust.
+
+- Flexible Repayment Plans: Allow temporary adjustments or hardship programs for borrowers facing job loss, medical bills, or other financial shocks. As this provides relief       during financial hardships, preventing temporary issues from turning into full defaults.
+
+- Monitor High-Risk Loan Types: Keep a closer watch on debt consolidation and medical loans, as these show higher default rates.
+
+- Early Warning Systems: Use predictive analytics to flag borrowers showing signs of financial stress before defaults occur. As this allows you to act before a default             occur minimizing the losses early.
+
+  
 # Training Machine Learning Models
 
 ## Data Preperation
